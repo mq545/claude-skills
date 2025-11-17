@@ -123,16 +123,6 @@ It won't recommend:
 4. **Use Skill Builder** (companion skill) to generate the SKILL.md
 5. **Test and refine** - iterate based on actual usage
 
-## Companion Skill
-
-**Skill Builder** (coming soon) - Takes a Skill Finder recommendation and generates a complete SKILL.md file for you.
-
-**Workflow:**
-1. Skill Finder identifies patterns → recommends skills
-2. You pick one
-3. Skill Builder creates the SKILL.md
-4. You test and refine
-
 ## Examples
 
 See real example outputs in the `examples/` folder:
