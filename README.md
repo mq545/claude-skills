@@ -1,6 +1,6 @@
 # Claude Skills
 
-Production-ready skills for Claude that solve real problems.
+A collection of useful Claude skills.
 
 ## Skills
 
